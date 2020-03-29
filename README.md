@@ -1,5 +1,6 @@
-# reactspringboothighcharts
-React, Spring Boot and Highcharts App
+# React, Highcharts and Spring Boot App
+
+[![Build Status](https://travis-ci.org/ajtechdeveloper/reactspringboothighcharts.svg?branch=master)](https://travis-ci.org/ajtechdeveloper/reactspringboothighcharts)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
