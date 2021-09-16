@@ -1,6 +1,6 @@
 # React, Highcharts and Spring Boot App
 
-[![Build Status](https://travis-ci.org/ajtechdeveloper/reactspringboothighcharts.svg?branch=master)](https://travis-ci.org/ajtechdeveloper/reactspringboothighcharts)
+[![Build Status](https://app.travis-ci.com/ajtechdeveloper/reactspringboothighcharts.svg?branch=master)](https://app.travis-ci.com/ajtechdeveloper/reactspringboothighcharts)
 
 For Application setup and usage, please refer to my blog post: [React, Highcharts and Spring Boot Integration](http://softwaredevelopercentral.blogspot.com/2020/03/react-highcharts-and-spring-boot.html)
 
